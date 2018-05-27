@@ -7,8 +7,9 @@ This Api Will provide you Json output so its very easy to use into your own code
 
 # Document
 
-<b>API Link</b> -> http://numspy.pythonanywhere.com/
-<b>API End-Point</b> -> http://numspy.pythonanywhere.com/LocateMobile/Your_10_digit_Mobile_number
+<b>API Link:</b></br>http://numspy.pythonanywhere.com/
+</br></br>
+<b>API End-Point: </b></br>http://numspy.pythonanywhere.com/LocateMobile/Your_10_digit_Mobile_number
 
 # Output Format
 
