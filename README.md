@@ -1,6 +1,6 @@
 # Numspy-api  [![Python 3.x](https://img.shields.io/badge/Made%20with-Python3.x-1f425f.svg)](http://www.python.org/download/) [![Flask](https://img.shields.io/badge/Made%20with-Flask-1f425f.svg)](http://flask.pocoo.org/)
 
-<img src="logo.png" alt="NumSpy logo" width="150px" height="150px"/>
+<img src="https://github.com/bhattsameer/numspy/blob/master/logo.png" alt="NumSpy logo" width="150px" height="150px"/>
 
 A public api by which you can find some details of any mobile number in india.
 This Api Will provide you Json output so its very easy to use into your own code.
