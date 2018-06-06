@@ -34,3 +34,6 @@ Feel Free To Make a Pull Request and Contribure :)
 <b>Project Link:</b></br>
 <a href="http://www.pypi.org/project/numspy">numspy-PyPI</a>
 
+# Credits
+Thanks to Way2sms.</br>
+NumSpy-Logo : [Hariom Panchal](https://github.com/Hariompanchal)
